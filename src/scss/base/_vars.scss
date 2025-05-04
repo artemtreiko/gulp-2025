@@ -1,0 +1,22 @@
+:root {
+  --container: 1600px;
+
+  --color-primary: #000;
+  --color-secondary: #000;
+  --color-accent: firebrick;
+  --color-gray: #CCC;
+  --color-background: #FFF;
+
+  --page-bg: #FFF;
+  --text-color: #191a23;
+  --accent: #94e6fa;
+  --gray: #f3f3f3;
+
+  --title-hero: 60px;
+  --title-section: 40px;
+}
+
+.dark {
+  --page-bg: #000;
+  --text-color: #FFF;
+}
